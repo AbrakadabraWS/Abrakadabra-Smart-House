@@ -1,0 +1,1 @@
+{"defSettings": false, "dns": "8.8.8.8", "ap_ssid": "ESP-Relay", "channel": 11, "sta_ssid": "ssid", "mode": "AP", "ap_passwd": "ESPRelay", "authmode": 4, "ip": "192.168.4.1", "subnet": "255.255.255.0", "sta_DHCP": true, "hidden": false, "sta_passwd": "pass", "hostname": "ESP-Relay by Abrakadabra Workshop", "gateway": "192.168.4.1"}
